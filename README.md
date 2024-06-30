@@ -53,7 +53,7 @@
     <div class="container">
         <section id="sobre">
             <h2>Sobre Mim</h2>
-            <p>Olá, meu nome é Alessandro D'Bará Agelú. Tenho 33 anos e sou praticante de Hapkido. Meu objetivo é tornar a 'Arcanos do Universo' uma referência nacional em Tarot e espiritualidade. Com anos de experiência na área, ofereço consultas e orientações personalizadas para ajudar você a encontrar respostas e caminhos para sua vida.</p>
+            <p>Olá, meu nome é Alessandro D'Bará Agelú. Tenho mais de uma década em estudos sobre Tarot e espiritualidade. Meu objetivo é tornar a 'Arcanos do Universo' uma referência nacional em Tarot e espiritualidade. Com anos de experiência na área, ofereço consultas e orientações personalizadas para ajudar você a encontrar respostas e caminhos para sua vida.</p>
         </section>
         <section id="servicos">
             <h2>Serviços</h2>
@@ -66,8 +66,8 @@
         <section id="contato">
             <h2>Contato</h2>
             <p>Entre em contato comigo para agendar uma consulta ou saber mais sobre meus serviços:</p>
-            <p>Email: <a href="mailto:alessandro@arcanosdouniverso.com">alessandro@arcanosdouniverso.com</a></p>
-            <p>Telefone: (11) 1234-5678</p>
+            <p>Email: <a href="mailto:arcanosdouniverso@gmail.com">arcanosdouniverso@gmail.com</a></p>
+            <p>Telefone: (51) 98358-9756</p>
         </section>
     </div>
     <footer>
